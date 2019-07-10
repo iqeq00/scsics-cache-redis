@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+gen-java/
+out/
+target/
+node_modules/
+*.log
